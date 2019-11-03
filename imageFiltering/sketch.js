@@ -17,7 +17,7 @@ function preload(){
 
 function setup() {
   //Set frame rate to 10 for more stable video
-  frameRate(10);
+  frameRate(9);
   //Set canvas to a size, similar to its original size to prevent distortion
   createCanvas(710, 400);
   
@@ -42,7 +42,7 @@ function loadedSong(){
 
 function loadUI(){
   radio = createRadio();
-  radio.option('Pointalize', "1");
+  radio.option('Image Switch', "1");
   radio.option('Greyscale Beat', "2");
   radio.option('Inverted and Circle Beat', "3");
   radio.option('Shifting points', "4");
