@@ -1,5 +1,5 @@
 # VandyHacks 
-<br\>
+
 ## Art Collage 
 The art collage is an image/art piece that is made up of smaller images/art pieces.  This is a wonderful idea to automate on making an art collage 
 - [ ] Needs to be rewritten
