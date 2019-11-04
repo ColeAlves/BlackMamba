@@ -1,8 +1,7 @@
 # VandyHacks 
 <br\>
 ## Art Collage 
-The art collage is an image/art piece that is made up of smaller images/art pieces.  This is a wonderful idea to automate on making an art collage <br\>   
-<br\>
+The art collage is an image/art piece that is made up of smaller images/art pieces.  This is a wonderful idea to automate on making an art collage 
 - [ ] Needs to be rewritten
 - [ ] Needs to be optimized
 - [ ] Needs to have access to large amounts of images to make up the bigger image/art
@@ -11,7 +10,7 @@ The art collage is an image/art piece that is made up of smaller images/art piec
 
 ## Music Visualization
 The music visualization project is to help indie music artists make a music video using filters and an image.  The image will be modified into a series of images based on the amplitude and frequency of the music that the artist uploads and spits out a video.  
-<br\>
+
 - [ ] Needs to be rewritten/optimized
 - [ ] Needs to have more filters
 - [ ] Needs to filter large images in a more timely manner
